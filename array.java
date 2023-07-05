@@ -7,6 +7,8 @@ public class array {
     //     }
     // }
 
+    //Program for linear search using array
+    
 // public static int linearsearch(int numbers[],int key) {
 //     for(int i=0;i<numbers.length;i++){
 //         if(numbers[i] == key){
@@ -27,6 +29,7 @@ public class array {
 //    return null;
 // }
 
+    //Program to get largest no.
 public static int getlargestno(int numbers[]) {
     int largest=Integer.MIN_VALUE;//-infinite
     int smallest=Integer.MAX_VALUE;//+infinite
