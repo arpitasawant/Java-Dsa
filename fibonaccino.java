@@ -1,12 +1,13 @@
 public class fibonaccino {
+    
 static void fibo(){
-int a=0,b=1,k,count=10;
-System.out.println(a+" "+b);
-for(int i=2;i<=count;i++){
-k=a+b;
-System.out.println(" "+k);
-a=b;
-b=k;
+ int a=0,b=1,k,count=10;
+ System.out.println(a+" "+b);
+ for(int i=2;i<=count;i++){
+ k=a+b;
+ System.out.println("  "+k);
+ a=b;
+ b=k;
 }
 }
     public static void main(String[] args) {
