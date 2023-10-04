@@ -1,6 +1,6 @@
 public class Recursion1 {
     public static void printNum(int n) {
-        // print numbers from 5 to 1
+        // Print numbers from 5 to 1
         if (n == 0) {
         return;
     }
