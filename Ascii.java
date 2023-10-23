@@ -1,4 +1,4 @@
-//Porgram to print ASCII 
+//Program to print ASCII 
 class Ascii{
     public static void main(String[] args){
         char a='a';
