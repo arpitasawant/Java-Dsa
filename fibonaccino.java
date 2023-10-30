@@ -5,7 +5,7 @@ static void fibo(){
  System.out.println(a+" "+b);
  for(int i=2;i<=count;i++){
  k=a+b;
- System.out.println("  "+k);
+ System.out.println("  "+ k );
  a=b;
  b=k;
 }
