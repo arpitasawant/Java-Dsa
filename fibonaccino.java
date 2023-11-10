@@ -16,7 +16,7 @@ static void fibo(){
         // for (int i = 2; i <= count; i++) {
         //     k = a + b;
 
-        //     System.out.print(" " + k);
+        //     System.out.print("  " + k);
         //     a = b;
         //     b = k;
 fibo();
