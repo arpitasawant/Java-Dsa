@@ -1,6 +1,6 @@
 public class kadanesalgorithm {
     public static void kadanes(int numbers[]) {
-        // int ts = 0;
+        // int ts1 = 0;
         int maxsum = Integer.MIN_VALUE;
         int curr = 0;
         for (int i = 0; i < numbers.length; i++) {

@@ -1,6 +1,8 @@
 //import java.util.Scanner;
 
 public class twodarray {
+    /*Program to find whether an element is present or not
+    
 //     public static boolean search(int matrix[][], int key) {
 //         for (int i = 0; i < matrix.length; i++) {
 //             for (int j = 0; j < matrix[0].length; j++) {
@@ -14,7 +16,7 @@ public class twodarray {
 //         System.out.println("key not found");
 //         return false;
 //     }
-
+*/
 //     public static void spiralmatrix(int matrix[][]) {
 //         int startrow=0;
 //         int startcol = 0;

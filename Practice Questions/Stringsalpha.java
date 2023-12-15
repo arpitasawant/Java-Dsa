@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Stringsalpha {
-    // Strings are immutable
+    // Strings are immutable....
     /*
      * public static void palindrome(String str) {
      * char count,count1;

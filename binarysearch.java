@@ -1,8 +1,8 @@
 public class binarysearch {
     /*
-     * arrays
-     * prerequisite - sorted arrays
-     * time complexity: o(logn)
+     Arrays
+     prerequisite -  sorted arrays
+     time complexity: O(logn)
      */
     public static int binarysearchno(int numbers[], int key) {
         int start = 0;

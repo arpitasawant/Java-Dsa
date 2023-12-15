@@ -1,6 +1,6 @@
 public class maxsubarray {
   public static void maxsub(int numbers[]) {
-    // int ts = 0;
+    // int t_s = 0;
     int maxsum = Integer.MIN_VALUE;
     ;
     int curr = 0;
