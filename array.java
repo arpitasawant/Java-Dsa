@@ -7,7 +7,7 @@ public class array {
     //     }
     // }
 
-//Program for linear search using array.....
+//Program for linear search using array
     
 // public static int linearsearch(int numbers[],int key) {
 //     for(int i=0;i<numbers.length;i++){
