@@ -14,7 +14,8 @@ for(int i=1;i<=n;i++){
    
 }     System.out.print(f);
 
-// char c='A';
+
+// char c='B';
 // for(int i=1;i<=7;i++){
 //     for(int j=1;j<=7-i;j++){
 //          System.out.print(" ");
