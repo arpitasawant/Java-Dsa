@@ -1,6 +1,7 @@
 public class binarysearch {
     /*
-     Arrays
+     Arrays:
+     
      prerequisite -  sorted arrays
      time complexity: O(logn)
      */
