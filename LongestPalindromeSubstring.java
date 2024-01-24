@@ -1,5 +1,5 @@
 public class LongestPalindromeSubstring {
-
+//palindrome problem
     public static String longestPalindrome(String s) {
         
         StringBuilder str = new StringBuilder();
