@@ -1,6 +1,6 @@
 public class buynsellstocks {
     //profit = sellingprice - buyingprice
-    //time complexity O(n)
+    //time complexity O(n)..
     public static int buysellstocks(int prices[]) {
         int buyprice = Integer.MAX_VALUE;
         int maxprofit = 0;
